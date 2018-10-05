@@ -15,19 +15,19 @@
   },
   "main": "./lib/js-thumb",
   "dependencies": {
-    "videojs": "0.0.x"
+    "videojs": "1.0.x"
   },
   "scripts": {
     "test": "grunt test"
   },
   "devDependencies": {
-    "jake": "latest"
-  , "utilities": "latest"
-  , "envoy": "latest"
-  , "watchr": "2.3.3"
-  , "qunit": "~0.5.15"
-  , "grunt-contrib-qunit": "~0.2.1"
-  , "qunitjs": "~1.11.0"
+    "jake": "latest",
+    "utilities": "latest",
+    "envoy": "latest",
+    "watchr": "2.3.3",
+    "qunit": "~0.5.15",
+    "grunt-contrib-qunit": "~0.2.1",
+    "qunitjs": "~1.11.0"
   },
   "optionalDependencies": {},
   "engines": {
